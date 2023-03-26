@@ -1,6 +1,3 @@
-# Designing-a-Store-Base
-I successfully effected my experience in SQL knowledge, for a store base design with preferred entries as store items, while employing the use of select statements to order the items by price, showing at least one statistic about the items.
-
 # Mall Database
 This code contains SQL commands to create and populate a database called "mall". The database contains a table called "tospin" that stores information about items sold in a mall.
 
